@@ -9,4 +9,4 @@ elif score >= 70:
 elif score >= 60:
     print("You got a D!")
 else:
-    print("You got an F!")
+    print("You got a F!")
