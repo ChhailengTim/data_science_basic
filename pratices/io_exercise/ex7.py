@@ -1,0 +1,5 @@
+str1, str2, str3 = input("Enter three strings separated by spaces: ").split()
+print("The strings are:")
+print("String 1:", str1)
+print("String 2:", str2)        
+print("String 3:", str3)
