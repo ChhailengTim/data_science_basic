@@ -1,0 +1,2 @@
+print('Nubmer Parttern')
+
